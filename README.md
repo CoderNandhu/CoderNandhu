@@ -42,3 +42,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codernandhu&show_icons=true&locale=en" alt="codernandhu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codernandhu&" alt="codernandhu" /></p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CoderNandhu/CoderNandhu/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CoderNandhu/CoderNandhu/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CoderNandhu/CoderNandhu/output/pacman-contribution-graph.svg">
+</picture>
+
+###
