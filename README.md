@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with [Open Source Cybersecurity Projects](#)
 
-- 👨‍💻 All of my projects are available at [#](#)
+- 👨‍💻 All of my projects are available at [noirnet](https://noirnetnandhu.netlify.app/)
 
 - 📝 I regularly write articles on [https://medium.com/@nandhuofficial21](https://medium.com/@nandhuofficial21)
 
