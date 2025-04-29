@@ -1,3 +1,6 @@
+![Alt Text](banner.png)
+
+
 <h1 align="center">Hi 👋, I'm Nandhu Krishnan</h1>
 <h3 align="center">Aspiring Cybersecurity Professional | Python Developer | CEH in Progress</h3>
 
